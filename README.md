@@ -18,5 +18,6 @@ Determine if there is any bias toward favorable reviews from Vine members.
 
 ## Summary
 In the Books Reviews Dataset I selected, there is no bias for reviews in the Vine program.
+
 The dataset link is below.
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
