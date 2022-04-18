@@ -1,7 +1,6 @@
 # Amazon Vine Analysis
 
 ## Overview of the analysis
-
 Determine if there is any bias toward favorable reviews from Vine members.
 
 ## Results
